@@ -1,6 +1,6 @@
 # flutter_provider
 
-A new Flutter project.
+ini projek parktikum mulai dari awal pertemuan sampai dengan UTS . projek ini selesai sampai disini
 
 ## Getting Started
 
